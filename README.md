@@ -1,4 +1,4 @@
-# React Container Components
+ ,# React Container Components
 
 ## Overview
 
@@ -78,7 +78,7 @@ Once you have the API key, you can "sign" your requests by attaching the key to 
 URL like so:
 
 ```
-https://api.nytimes.com/svc/movies/v2/reviews/all.json?api-key=<your-api-key>
+https://api.nytimes.com/svc/movies/v2/reviews/all.json?api-key=zYUghdWtAZjXKTuzxVAUrBMEdIEOIIQn
 ```
 
 ```
